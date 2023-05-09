@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Einführung in die Wirtschaftsinformatik",
+      "value": 1000,
+      "uni": "TUM"
+    },
+    {
+      "name": "Corporate Digital Responsibility",
+      "value": 600,
+      "uni": "TUM"
+    },
+    {
+      "name": "Seminar Innovation and Entrepreneurship: Innovation Management in Family Enterprises",
+      "value": 400,
+      "uni": "TUM"
+    },
+    {
+      "name": "Seminar Finance & Accounting: Digital Finance",
+      "value": 200,
+      "uni": "LMU"
+    },
+    {
+      "name": "Herausforderungen der Wissenschafts- und Forschungspolitik",
+      "value": 100,
+      "uni": "LMU"
+    },
+    {
+      "name": "Start-ups and unicorns coming up",
+      "value": 50,
+      "uni": "LMU"
+    },
+    {
+      "name": "Diversität und Inklusion",
+      "value": 30,
+      "uni": "LMU"
+    },
+    {
+      "name": "Politologie / Soziologie",
+      "value": 20,
+      "uni": "LMU"
+    },
+    {
+      "name": "Seminar: Soziologie",
+      "value": 10,
+      "uni": "LMU"
+    },
+    {
+      "name": "Soziologische Perspektiven auf Trend- und Freizeitsportarten",
+      "value": 5,
+      "uni": "TUM"
+    }
+  ]
