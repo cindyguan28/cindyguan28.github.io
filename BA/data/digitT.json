@@ -1,27 +1,27 @@
 [
     {
       "name": "Einführung in die Wirtschaftsinformatik",
-      "value": 20,
+      "value": 10,
       "uni": "TUM"
     },
     {
       "name": "Corporate Digital Responsibility",
-      "value": 16,
+      "value": 9,
       "uni": "TUM"
     },
     {
       "name": "Seminar Innovation and Entrepreneurship: Innovation Management in Family Enterprises",
-      "value": 12,
+      "value": 8,
       "uni": "TUM"
     },
     {
       "name": "Seminar Finance & Accounting: Digital Finance",
-      "value": 10,
+      "value": 7,
       "uni": "LMU"
     },
     {
       "name": "Herausforderungen der Wissenschafts- und Forschungspolitik",
-      "value": 8,
+      "value": 6,
       "uni": "LMU"
     },
     {
@@ -31,17 +31,17 @@
     },
     {
       "name": "Diversität und Inklusion",
-      "value": 2,
+      "value": 4,
       "uni": "LMU"
     },
     {
       "name": "Politologie / Soziologie",
-      "value": 2,
+      "value": 3,
       "uni": "LMU"
     },
     {
       "name": "Seminar: Soziologie",
-      "value": 1,
+      "value": 2,
       "uni": "LMU"
     },
     {
