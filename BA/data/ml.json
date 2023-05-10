@@ -1,0 +1,18 @@
+[
+    { "value": 10, "name": "Komputer & Creativität", "uni": "TUM" },
+  
+    { "value": 9, "name": "Python for Engineering Data Analysis - From Machine Learning to Visualization", "uni": "TUM"  },
+    
+    { "value": 8, "name": "Datenzentrierte Technik und Wissenschaft", "uni": "TUM"  },
+    { "value": 7, "name": "Modellierung von Unsicherheit in den Ingenieurwissenschaften (MSE)", "uni": "TUM"  },
+    { "value": 6, "name": "Seminar Finance & Accounting: Data Science in Finance", "uni": "TUM"  },
+  
+    { "value": 5, "name": "Computational Intelligence", "uni": "TUM"  },
+    { "value": 4, "name": "Körper- und Bewegungserfahrungen bei SchülerInnen aufbauen sowie bewegungswissenschaftlich verstehen (B.Ed. NB, Gym)", "uni": "TUM"  },
+    { "value": 3, "name": "Vertiefung Empirische Methoden", "uni": "TUM"  },
+    { "value": 2, "name": "Indie-Games: von der Idee zum Markt", "uni": "TUM"  },
+
+    { "value": 1, "name": "Fundamentals of Human-Centered Robotics", "uni": "TUM"  }
+
+
+  ]
