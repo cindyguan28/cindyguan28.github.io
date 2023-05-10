@@ -1,0 +1,16 @@
+[
+    { "value": 10, "name": "Essentials of Applied Software Engineering", "uni": "TUM" },
+  
+    { "value": 9, "name": "Introduction to Informatics for Students of Management & Technology – Programming Lab Course", "uni": "TUM"  },
+    { "value": 8, "name": "Software Development and Related Concepts in Digital Health", "uni": "TUM"  },
+    { "value": 7, "name": "Topics in Innovation & Entrepreneurship II", "uni": "TUM"  },
+    { "value": 6, "name": "Start-ups and unicorns coming up", "uni": "TUM"  },
+    { "value": 5, "name": "Einführung in die Wirtschaftsinformatik", "uni": "TUM"  },
+  
+    { "value": 4, "name": "Projektmanagement und wissenschaftliches Arbeiten", "uni": "TUM"  },
+    { "value": 6, "name": "Corporate Digital Responsibility", "uni": "TUM"  },
+    { "value": 6, "name": "Strategic and International Management & Organizational Behavior", "uni": "TUM"  },
+    { "value": 6, "name": "Empirical Methods for Bioeconomy", "uni": "TUM"  }
+
+
+  ]
