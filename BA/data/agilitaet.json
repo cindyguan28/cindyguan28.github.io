@@ -8,9 +8,9 @@
     { "value": 5, "name": "Einführung in die Wirtschaftsinformatik", "uni": "TUM"  },
   
     { "value": 4, "name": "Projektmanagement und wissenschaftliches Arbeiten", "uni": "TUM"  },
-    { "value": 6, "name": "Corporate Digital Responsibility", "uni": "TUM"  },
-    { "value": 6, "name": "Strategic and International Management & Organizational Behavior", "uni": "TUM"  },
-    { "value": 6, "name": "Empirical Methods for Bioeconomy", "uni": "TUM"  }
+    { "value": 3, "name": "Corporate Digital Responsibility", "uni": "TUM"  },
+    { "value": 2, "name": "Strategic and International Management & Organizational Behavior", "uni": "TUM"  },
+    { "value": 1, "name": "Empirical Methods for Bioeconomy", "uni": "TUM"  }
 
 
   ]
